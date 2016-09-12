@@ -1,5 +1,4 @@
 var path = require('path');
-var path = require('path');
 var textLoader = require('./loaders/text');
 
 module.exports = {
@@ -11,7 +10,7 @@ module.exports = {
   },
   resolveLoader: {
     alias: {
-      "text-loader": path.join(__dirname, './loaders/text')
+      'text-loader': path.join(__dirname, './loaders/text')
     }
   },
   module: {

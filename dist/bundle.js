@@ -50,7 +50,7 @@
 /* 1 */
 /***/ function(module, exports) {
 
-	eval("module.exports = \"Hoàng Phan Quốc\"\n\n/*****************\n ** WEBPACK FOOTER\n ** ./resources/data.txt\n ** module id = 1\n ** module chunks = 0\n **/\n//# sourceURL=webpack:///./resources/data.txt?");
+	eval("module.exports = \"hello, world\"\n\n/*****************\n ** WEBPACK FOOTER\n ** ./resources/data.txt\n ** module id = 1\n ** module chunks = 0\n **/\n//# sourceURL=webpack:///./resources/data.txt?");
 
 /***/ }
 /******/ ]);
